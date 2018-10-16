@@ -1,9 +1,9 @@
 {
   "name": "vuepress",
-  "version": "1.0.0",
-  "repository": "https://github.com/capriosa/vuepress-deploy",
-  "description": "Starter template for a VuePress site",
-  "author": "Meinolf Droste <mdwp.post@gmail.com>",
+  "version": "1.0.1",
+  "repository": "https://github.com/Wrynst/stillweatherspirits-vuepress",
+  "description": "Example of Stillweather Spirits",
+  "author": "Wrynst<n@wrynst.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
