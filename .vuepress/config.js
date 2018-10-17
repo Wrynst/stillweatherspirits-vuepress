@@ -1,10 +1,10 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "Stillweather Spirits",
     locales: {
         '/': {
-            lang: 'de-DE',
-            title: 'VuePress Deploy',
-            description: 'Vuepress with Netlify Deploy Button'
+            lang: 'en-EN',
+            title: 'Stillweather Spirits',
+            description: 'Oregon Gin'
         }
     },
     head: [
@@ -22,7 +22,7 @@ module.exports = {
     serviceWorker: true,
     themeConfig: {
         docsDir: 'docs',
-        repo: 'capriosa/vuepress-deploy',
+        repo: 'Wrynst/stillweatherspirits-vuepress',
 
         nav: [{
                 text: 'Start',
@@ -30,7 +30,7 @@ module.exports = {
             },
             {
                 text: 'Admin',
-                link: '/admin',
+                link: '/admin/',
             },
             {
                 text: 'NetlifyCMS Config Help',
